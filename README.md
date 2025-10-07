@@ -14,7 +14,7 @@ Desenvolvido com FastAPI, SQLAlchemy e SQLite.
 
 # 🧰 Tecnologias usadas
 
-Python 3.10+
+Python 3.14+
 
 FastAPI
 
